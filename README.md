@@ -1,2 +1,2 @@
 # Rememberable Password Generator
- Generate a strong password that you can remember
+ Generate a strongand secured password that you can remember all time
