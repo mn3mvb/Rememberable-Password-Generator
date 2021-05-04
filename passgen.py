@@ -2,28 +2,16 @@ import random
 import time
 
 
-print("╔═══╗             ╔═══╗        
-║╔═╗║             ║╔═╗║        
-║╚═╝║╔══╗ ╔══╗╔══╗║║ ╚╝╔══╗╔═╗ 
-║╔══╝╚ ╗║ ║══╣║══╣║║╔═╗║╔╗║║╔╗╗
-║║   ║╚╝╚╗╠══║╠══║║╚╩═║║║═╣║║║║
-╚╝   ╚═══╝╚══╝╚══╝╚═══╝╚══╝╚╝╚╝
-                               
-                               
-")
-print("                                                                           
-                                                                           
-                                                                           
-╔═══╗╔═══╗╔═══╗╔═══╗╔═══╗╔═══╗╔═══╗╔═══╗╔═══╗╔═══╗╔═══╗╔═══╗╔═══╗╔═══╗╔═══╗
-╚═══╝╚═══╝╚═══╝╚═══╝╚═══╝╚═══╝╚═══╝╚═══╝╚═══╝╚═══╝╚═══╝╚═══╝╚═══╝╚═══╝╚═══╝
-                                                                           
-                                                                           
-                                                                           
-")
+print(" 
+       ___                 ___            
+| _ \ __ _  ___ ___ / __| ___  _ _  
+|  _// _` |(_-/(_-/| (_ |/ -_)| ' \ 
+|_|  \__/_|/__//__/ \___|\___||_||_|
+ ")
 print("Please answer some questions in order to generate your password...")
 time.sleep(2)
 
-def passwordgen(length):
+def passwordgen(length)
     capital_fav_song = fav_song.capitalize()
     char = [capital_fav_song, str(fav_num1), str(fav_num2), fav_symbol, fav_color]
     for w in range(length):
