@@ -1,13 +1,6 @@
 import random
 import time
 
-
-print(" 
-       ___                 ___            
-| _ \ __ _  ___ ___ / __| ___  _ _  
-|  _// _` |(_-/(_-/| (_ |/ -_)| ' \ 
-|_|  \__/_|/__//__/ \___|\___||_||_|
- ")
 print("Please answer some questions in order to generate your password...")
 time.sleep(2)
 
